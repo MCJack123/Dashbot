@@ -10,8 +10,8 @@ const GD = new GDClient({
 var botName = "JackMacBot"; // your bot's name
 var userName = "jackmacwindows"; // your broadcaster name
 var oauth = "oauth:a1b2c3d4e5f6g7h8i9j10k11l12m13"; // your bot's oauth key (this is not real)
-var port = 4000;
-var host = '10.0.1.46';
+var host = '127.0.0.1'; // your ip
+var port = 4000; // port to host server on
 
 var options = {
     options: {
